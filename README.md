@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @JoeLsvJ
-- 🌱 Physics | Computational Science 
-- 📫 Trieste
+- 👋 Hi, I’m @JoeL_svj
+- ☢️ Physics | Computational Science
